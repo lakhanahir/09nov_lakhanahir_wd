@@ -1,0 +1,39 @@
+.div {
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.div1 {
+    width: 300px;
+    display: flex;
+}
+
+.drink {
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+.about {
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+.div2 {
+    display: flex;
+    width: 300px;
+}
+
+.items {
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+.contact {
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+}
