@@ -1,0 +1,3367 @@
+@media screen and (min-width: 1100px) and (max-width:1200px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 1050px;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 14px;
+    }
+
+    
+    header .menus {
+        width: 900px;
+        float: left;
+        position: relative;
+    }
+
+    header .menus ul li {
+        float: left;
+        list-style: none;
+    }
+    
+    header .menus .menu01 {
+        position: absolute;
+        left: 772px;
+        top: 20px;
+    }
+    header img {
+        width: 12%;
+        float: left;
+        position: absolute;
+        left: 160px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus .menu01 li {
+        margin-right: 15px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 15px;
+    }
+
+    header .menus .menu02 {
+        position: absolute;
+        left: 382px;
+        top: 48px;
+    }
+
+    header .menus ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    header .menus .menu02 li:first-child {
+        width: 55px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+
+    header .menus .menu02 li:nth-child(2) {
+        width: 120px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+    header .menus .menu02 li:nth-child(3) {
+        width: 68px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:nth-child(4) {
+        width: 88px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:last-child {
+        width: 88px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    #photo {
+        width: 850px;
+        height: 430px;
+        z-index: -1;
+    }
+
+    #photo img {
+        width: 850px;
+        height: 430px;
+    }
+}
+
+
+
+@media screen and (min-width: 1051px) and (max-width:1099px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 1050px;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 14px;
+    }
+
+    header img {
+        width: 12%;
+        float: left;
+        position: absolute;
+        left: 160px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus {
+        width: 900px;
+        float: left;
+        position: relative;
+    }
+
+    header .menus ul li {
+        float: left;
+        list-style: none;
+    }
+
+    header .menus .menu01 {
+        position: absolute;
+        left: 85%;
+        top: 20px;
+    }
+
+    header .menus .menu01 li {
+        margin-right: 15px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 15px;
+    }
+
+    header .menus .menu02 {
+        position: absolute;
+        left: 41.5%;
+        top: 48px;
+    }
+
+    header .menus ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    header .menus .menu02 li:first-child {
+        width: 55px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+
+    header .menus .menu02 li:nth-child(2) {
+        width: 120px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+    header .menus .menu02 li:nth-child(3) {
+        width: 68px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:nth-child(4) {
+        width: 88px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:last-child {
+        width: 88px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 962px) and (max-width: 1050px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 1050px;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 14px;
+
+    }
+
+    header img {
+        width: 12%;
+        float: left;
+        position: absolute;
+        left: 160px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus {
+        width: 85.71%;
+        float: left;
+        position: relative;
+    }
+
+    header .menus ul li {
+        float: left;
+        list-style: none;
+    }
+
+    header .menus .menu01 {
+        position: absolute;
+        left: 83.5%;
+        top: 20px;
+    }
+
+    header .menus .menu01 li {
+        margin-right: 15px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 15px;
+    }
+
+    header .menus .menu02 {
+        position: absolute;
+        left: 40%;
+        top: 48px;
+    }
+
+    header .menus ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    header .menus .menu02 li:first-child {
+        width: 55px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+
+    header .menus .menu02 li:nth-child(2) {
+        width: 120px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+    header .menus .menu02 li:nth-child(3) {
+        width: 68px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:nth-child(4) {
+        width: 88px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:last-child {
+        width: 88px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    footer {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        float: left;
+        width: 100%;
+        height: 90px;
+        background:black;
+        margin: auto;
+        color: white;
+        text-align: center;
+    }
+
+    footer span {
+        line-height: 90px;
+        margin: 70px;
+    }
+}
+
+@media screen and (min-width: 870px) and (max-width: 961px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 1050px;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 13px;
+
+    }
+
+    header img {
+        width: 12%;
+        float: left;
+        position: absolute;
+        left: 160px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus {
+        width: 85.71%;
+        float: left;
+        position: relative;
+    }
+
+    header .menus ul li {
+        float: left;
+        list-style: none;
+    }
+
+    header .menus .menu01 {
+        position: absolute;
+        left: 74.3%;
+        top: 20px;
+    }
+
+    header .menus .menu01 li {
+        margin-right: 10px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 10px;
+    }
+
+    header .menus .menu02 {
+        position: absolute;
+        left: 35%;
+        top: 48px;
+    }
+
+    header .menus ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    header .menus .menu02 li:first-child {
+        width: 50px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+
+    header .menus .menu02 li:nth-child(2) {
+        width: 110px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+    header .menus .menu02 li:nth-child(3) {
+        width: 62px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:nth-child(4) {
+        width: 82px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:last-child {
+        width: 82px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    footer {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        float: left;
+        width: 100%;
+        height: 90px;
+        background: black;
+        margin: auto;
+        color: white;
+        text-align: center;
+    }
+
+    footer span {
+        line-height: 90px;
+        margin: 50px;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 869px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 1050px;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 12px;
+
+    }
+
+    header img {
+        width: 12%;
+        float: left;
+        position: absolute;
+        left: 130px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus {
+        width: 85.71%;
+        float: left;
+        position: relative;
+    }
+
+    header .menus ul li {
+        float: left;
+        list-style: none;
+    }
+
+    header .menus .menu01 {
+        position: absolute;
+        left: 69.2%;
+        top: 20px;
+    }
+
+    header .menus .menu01 li {
+        margin-right: 10px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 10px;
+    }
+
+    header .menus .menu02 {
+        position: absolute;
+        left: 32%;
+        top: 48px;
+    }
+
+    header .menus ul li a {
+        color: white;
+        text-decoration: none;
+    }
+
+    header .menus .menu02 li:first-child {
+        width: 48px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+
+    header .menus .menu02 li:nth-child(2) {
+        width: 104px;
+        height: 30px;
+        cursor: pointer;
+        padding: 6px;
+    }
+
+    header .menus .menu02 li:nth-child(3) {
+        width: 58px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:nth-child(4) {
+        width: 78px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    header .menus .menu02 li:last-child {
+        width: 78px;
+        height: 30px;
+        padding: 6px;
+        cursor: pointer;
+    }
+
+    footer {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        float: left;
+        width: 100%;
+        height: 90px;
+        background: black;
+        margin: auto;
+        color: white;
+        text-align: center;
+    }
+
+    footer span {
+        line-height: 90px;
+        margin: 30px;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 100%;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 10px;
+    }
+
+    header img {
+        width: 22%;
+        float: left;
+        position: absolute;
+        left: 80px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus {
+        width: 900px;
+        float: left;
+        position: relative;
+        display: none;
+    }
+
+    header span {
+        position: absolute;
+        line-height: 90px;
+        left: 80%;
+        display: block;
+        font-size: 30px;
+        cursor: pointer;
+    }
+
+    header .menus .menu01 li {
+        margin-right: 20px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 20px;
+    }
+
+    footer {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        float: left;
+        width: 100%;
+        height: 90px;
+        background: black;
+        margin: auto;
+        color: white;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    footer span {
+        line-height: 90px;
+        margin: 10px;
+    }
+}
+
+@media screen and (min-width: 0px) and (max-width: 480px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    header {
+        position: relative;
+        width: 100%;
+        background: black;
+        margin: 0px auto;
+        color: white;
+        font-size: 10px;
+    }
+
+    header img {
+        width: 24%;
+        float: left;
+        position: absolute;
+        left: 60px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    header .menus {
+        width: 900px;
+        float: left;
+        position: relative;
+        display: none;
+    }
+
+    header span {
+        position: absolute;
+        line-height: 90px;
+        left: 80%;
+        display: block;
+        font-size: 25px;
+        cursor: pointer;
+    }
+
+    header .menus .menu01 li {
+        margin-right: 20px;
+    }
+
+    header .menus .menu02 li {
+        margin-right: 20px;
+    }
+}
+
+@media screen and (max-width: 865px) {
+    .left-content {
+        width: 100%;
+        position: relative;
+        left: 50.6%;
+        transform: translateX(-50%);
+    }
+
+    .leftside {
+        width: 30%;
+        height: auto;
+        float: left;
+        background: rgb(204, 202, 202);
+    }
+
+    .right-content {
+        width: 70%;
+        height: auto;
+        float: left;
+    }
+
+    .img-heading{
+        width: 866px;
+        position: absolute;
+        left: 50.6%;
+        transform: translateX(-50%);
+        z-index: 3;
+    }
+    
+    .img-heading01{
+        position: absolute;
+        z-index: 1;
+        top: -400px;
+        margin-left: 200px;
+        color: white;
+    }
+    
+    .img-heading02{
+        position: absolute;
+        top: -375px;
+        margin-left: 260px;
+        color: white;
+        z-index: 1;
+    }
+    
+    .img-pera{
+        position: absolute;
+        top: -130px;
+        margin-left: 200px;
+        color: white;
+        text-align: left;
+        
+    }
+}
+
+@media screen and (max-width: 500px){
+    .img-heading{
+        width: 866px;
+        position: absolute;
+        left: 50.6%;
+        transform: translateX(-50%);
+        z-index: 3;
+        font-size: 14px;
+    }
+    
+    .img-heading01{
+        position: absolute;
+        z-index: 1;
+        top: -400px;
+        margin-left: 300px;
+        color: white;
+    }
+    
+    .img-heading02{
+        position: absolute;
+        top: -375px;
+        margin-left: 360px;
+        color: white;
+        z-index: 1;
+    }
+    
+    .img-pera{
+        position: absolute;
+        top: -130px;
+        margin-left: 300px;
+        color: white;
+        text-align: left;
+        
+    }
+}
+
+
+
+@media screen and (max-width: 841px) {
+
+    .datetime input {
+        width: 100%;
+    }
+   
+    .datetime1 input {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 866px) {
+    .thomas {
+        width: 173px;
+        height: 195px;
+        margin-left: 40px;
+        background: blue;
+        border-radius: 3px;
+        color: white;
+    }
+
+    .thomas p {
+        padding: 25px 20px 15px 20px;
+    }
+}
+
+@media screen and (max-width: 847px) {
+    .thomas {
+        width: 30%;
+        height: 195px;
+        margin-left: 40px;
+        background: blue;
+        border-radius: 3px;
+        color: white;
+    }
+
+    .thomas p {
+        padding: 20px 15px 14px 20px;
+
+    }
+
+    .thomas span {
+        float: right;
+        padding-right: 18px;
+        padding-top: 10px;
+    }
+}
+
+@media screen and (max-width: 779px) {
+    .thomas {
+        width: 30%;
+        height: 195px;
+        margin-left: 40px;
+        background: blue;
+        border-radius: 3px;
+        color: white;
+    }
+
+    .thomas p {
+        padding: 25px 20px 15px 20px;
+
+    }
+}
+
+@media screen and (max-width: 759px) {
+    .thomas {
+        width: 33%;
+        height: 195px;
+        margin-left: 40px;
+        background: blue;
+        border-radius: 3px;
+        color: white;
+    }
+
+    .thomas p {
+        font-size: 14px;
+        padding: 20x 15px 20px 15px;
+
+    }
+
+    .thomas span {
+        font-size: 14px;
+        float: right;
+        padding-right: 18px;
+        padding-top: 20px;
+    }
+}
+
+@media screen and (max-width: 808px) {
+    .thomas p {
+        padding: 25px 11px 15px 11px;
+
+    }
+
+    .thomas span {
+        float: right;
+        padding-right: 18px;
+
+    }
+}
+
+@media screen and (max-width: 693px) {
+    .thomas p {
+        font-size: 12px;
+        padding: 25px 11px 15px 11px;
+
+    }
+
+    .thomas span {
+        font-size: 12px;
+        float: right;
+        padding-right: 18px;
+        padding-top: -10px;
+
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .thomas {
+        width: 60%;
+        height: 120px;
+        margin-top: 10px;
+        margin-left: -1px;
+        background: blue;
+        border-radius: 3px;
+        color: white;
+        clear: left;
+  
+    }
+
+    .our-client {
+        width: 90%;
+    }
+
+    .our-client01 {
+        width: 100%;
+    }
+
+    .thomas p {
+        font-size: 12px;
+    }
+
+    .thomas span {
+        font-size: 12px;
+        margin-top: -15px;
+        float: right;
+    }
+}
+
+@media screen and (max-width: 483px) {
+    .thomas span {
+        font-size: 12px;
+        margin-top: -30px;
+        float: right;
+    }
+
+    .thomas p {
+        font-size: 12px;
+        padding: 15px;
+    }
+}
+
+@media screen and (max-width: 411px) {
+    .thomas {
+        width: 90%;
+        height: 90px;
+        margin-top: 15px;
+        margin-left: -1px;
+        background: blue;
+        border-radius: 3px;
+        color: white;
+        clear: left;
+    }
+
+    .thomas p {
+        font-size: 10px;
+        padding: 15px;
+    }
+}
+
+@media screen and (max-width: 749px) {
+    .leftside form .radio-button span {
+        display: block;
+    }
+
+    .radio3 {
+        left: -7px;
+    }
+
+    .radio4 {
+        left: -6px;
+    }
+}
+
+@media screen and (max-width: 799px) {
+    .leftside form .submit {
+        display: block;
+        margin: 20px 11.5%
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+    .passengers input {
+        width: 92px;
+        height: 21px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    footer {
+        margin: auto;
+        float: left;
+        width: 100%;
+        transform: translateX(-50%);
+        position: relative;
+        background: black;
+        left: 50%;
+        height: 90px;
+        font-size: 12px;
+        color: white;
+        text-align: center;
+    }
+
+    footer span {
+        display: block;
+        line-height: 45px;
+        margin: 0px;
+    }
+}
+
+/* aircraft media */
+
+@media screen and (max-width: 850px) {
+    .sales {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .aircraft1 {
+        width: auto;
+        height: 100px;
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+
+    .aircraft1 .left
+     {
+        width: 50%;
+        float: left;
+    }
+    
+    .aircraft1 p {
+        width: 50%;
+        float: left;
+    }
+
+    .aircraft1 p {
+        margin-left: -40px;
+    }
+
+    .vitae {
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+
+    .lipsum {
+        width: auto;
+        margin-left: 10%;
+        margin-right: 0;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .list1 {
+        width: 50%;
+        float: left;
+    }
+    .list2 {
+        width: 50%;
+        float: left;
+    }
+
+    .read {
+        position: relative;
+        top: 20px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+
+  
+
+    .heading {
+        position: relative;
+        top: 80px;
+        left: 50px;
+       
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .vero {
+        width: auto;
+        height: 200px;
+        position: relative;
+        top: 100px;
+        left: 50px;
+        font-size: 14px;
+    }
+
+    .vero p {
+        width: 50%;
+        float: left;
+    }
+      
+    .vero .right {
+        width: 50%;
+        float: left;
+    }
+
+    .provident {
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 721px) {
+    .sales {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .aircraft1 {
+        width: auto;
+        height: 100px;
+        margin: 10px 9%;
+        font-size: 13px;
+    }
+
+    .aircraft1 .left {
+        width: 50%;
+        float: left;
+    }
+   
+    .aircraft1 p {
+        width: 50%;
+        float: left;
+    }
+
+    .aircraft1 .left img {
+        width: 135px;
+    }
+
+    .aircraft1 p {
+        margin-left: -40px;
+    }
+
+    .vitae {
+        margin: 10px 9%;
+        font-size: 13px;
+    }
+
+    .lipsum {
+        width: auto;
+        margin-left: 10%;
+        margin-right: 0;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .list1 {
+        width: 50%;
+        float: left;
+    }
+    .list2 {
+        width: 50%;
+        float: left;
+    }
+
+    .read {
+        position: relative;
+        top: 20px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+
+
+    .heading {
+        position: relative;
+        top: 80px;
+        left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .vero {
+        width: auto;
+        height: 200px;
+        position: relative;
+        top: 100px;
+        left: 50px;
+        font-size: 13px;
+    }
+
+    .vero p {
+        width: 50%;
+        float: left;
+    }
+  
+    .vero .right {
+        width: 50%;
+        float: left;
+    }
+    .provident {
+        margin: 10px 9%;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 683px) {
+    .sales {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .aircraft1 {
+        width: auto;
+        height: 140px;
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+
+    .aircraft1 .left {
+        width: 90%;
+
+    }
+    
+    .aircraft1 p {
+        width: 90%;
+
+    }
+
+    .aircraft1 .left img {
+        width: 180px;
+    }
+
+    .aircraft1 p {
+        margin-top: 5px;
+        margin-left: -2px;
+    }
+
+    .vitae {
+        margin: 20px 9%;
+        font-size: 14px;
+    }
+
+    .lipsum {
+        width: auto;
+        margin-left: 10%;
+        margin-right: 0;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .list1{
+        width: 90%;
+    }
+    .list2{
+        width: 90%;
+       
+    }
+
+    .read {
+        position: relative;
+        top: 20px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+
+
+    .heading {
+        position: relative;
+        top: 80px;
+        left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .vero {
+        width: 90%;
+        height: 270px;
+        position: relative;
+        top: 100px;
+        left: 35px;
+        font-size: 14px;
+    }
+
+    .vero img {
+        margin-top: 10px;
+    }
+
+    .vero p {
+        width: 85%;
+    }
+
+
+    .vero .right {
+        width: 85%;
+    }
+
+    .provident {
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 545px) {
+    .sales {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .aircraft1 {
+        width: auto;
+        height: 160px;
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+
+    .aircraft1 .left {
+        width: 90%;
+
+    }
+    
+    .aircraft1 p {
+        width: 90%;
+
+    }
+
+    .aircraft1 .left img {
+        width: 180px;
+    }
+
+    .portion p {
+        margin-top: 5px;
+        margin-left: -2px;
+    }
+
+    .vitae {
+        margin: 20px 9%;
+        font-size: 14px;
+    }
+
+    .lipsum {
+        width: auto;
+        margin-left: 10%;
+        margin-right: 0;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .list1 {
+        width: 90%;
+    }
+    .list2 {
+        width: 90%;
+    }
+
+    .read {
+        position: relative;
+        top: 20px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+       background:black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+
+    
+  
+
+    .heading {
+        position: relative;
+        top: 80px;
+        left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .vero {
+        width: 90%;
+        height: 285px;
+        position: relative;
+        top: 100px;
+        left: 30px;
+        font-size: 14px;
+    }
+
+    .vero img {
+        margin-top: 10px;
+    }
+
+    .vero p {
+        width: 85%;
+    }
+
+    .vero .right {
+        width: 85%;
+    }
+
+
+    .provident {
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 419px) {
+    .sales {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .aircraft1 {
+        width: auto;
+        height: 175px;
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+
+    .aircraft1 .left {
+        width: 90%;
+
+    }
+    
+    .aircraft1 p {
+        width: 90%;
+
+    }
+
+    .aircraft1 .left img {
+        width: 180px;
+    }
+
+    .aircraft1 p {
+        margin-top: 5px;
+        margin-left: -2px;
+    }
+
+    .vitae {
+        margin: 20px 9%;
+        font-size: 14px;
+    }
+
+    .lipsum {
+        width: auto;
+        margin-left: 10%;
+        margin-right: 0;
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .list1 {
+        width: 90%;
+    }
+    .list2 {
+        width: 90%;
+    }
+
+    .read {
+        position: relative;
+        top: 20px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+         background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+
+
+    .heading {
+        position: relative;
+        top: 80px;
+        left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .vero {
+        width: 90%;
+        height: 300px;
+        position: relative;
+        top: 100px;
+        left: 30px;
+        font-size: 14px;
+    }
+
+    .vero img {
+        margin-top: 10px;
+    }
+
+    .vero p {
+        width: 85%;
+    }
+     
+    .vero .right {
+        width: 85%;
+    }
+
+
+
+    .provident {
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .sales {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .aircraft1 {
+        width: auto;
+        height: 175px;
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+
+    .aircraft1 .left{
+        width: 90%;
+    }
+    
+    .aircraft1 p {
+        width: 90%;
+    }
+    
+    .aircraft1 p {
+        width: 90%;
+    }
+    .aircraft1 .left img {
+        width: 180px;
+    }
+
+    .aircraft1 p {
+        margin-top: 5px;
+        margin-left: -2px;
+    }
+
+    .vitae {
+        margin: 20px 9%;
+        font-size: 14px;
+    }
+
+    .lipsum {
+        width: auto;
+        margin-left: 10%;
+        margin-right: 0;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .list1 {
+        width: 90%;
+    }
+    .list2 {
+        width: 90%;
+    }
+
+    .read {
+        position: relative;
+        top: 20px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+
+   
+
+    .heading {
+        position: relative;
+        top: 80px;
+        left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .vero {
+        width: 90%;
+        height: 310px;
+        position: relative;
+        top: 100px;
+        left: 30px;
+        font-size: 14px;
+    }
+    .vero img {
+        margin-top: 10px;
+    }
+
+    .vero p {
+        width: 85%;
+    }
+
+    
+    .vero .right {
+        width: 85%;
+    }
+
+
+    .provident {
+        margin: 10px 9%;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 764px) {
+    .aircraft1 .left img {
+        width: 150px;
+    }
+}
+
+/* safety media */
+
+@media screen and (max-width: 870px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+    }
+ 
+    .accusamus {
+        width: auto;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+
+    .accusamus .left{
+        width: 50%;
+        float: left;
+    }
+    
+    .accusamus p {
+        width: 50%;
+        float: left;
+    }
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: auto;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+
+    .et-harum .left {
+        width: 50%;
+        float: left;
+    }
+  
+    .et-harum p {
+        width: 50%;
+        float: left;
+    }
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .quidem {
+        position: relative;
+        top: 100px;
+        left: 50px;
+       
+    }
+
+    .dolor {
+        width: 90%;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .accusamus {
+        width: auto;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+
+    .accusamus .left{
+        width: 50%;
+        float: left;
+    }
+    
+    .accusamus p {
+        width: 50%;
+        float: left;
+    }
+
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: auto;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+
+    .et-harum .left{
+        width: 50%;
+        float: left;
+    }
+   
+    .et-harum p {
+        width: 50%;
+        float: left;
+    }
+
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+      }
+
+    .quidem {
+        position: relative;
+        top: 100px;
+        left: 50px;
+       
+    }
+
+    .dolor {
+        width: 88%;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 685px) {
+    .accusamus {
+        width: auto;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 683px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .about-safety {
+        width: auto;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+
+    .accusamus .left{
+        width: 50%;
+        float: left;
+    }
+   
+    .accusamus p {
+        width: 50%;
+        float: left;
+    }
+
+    .accusamus .left img{
+        width: 150px;
+    }
+   
+    .et-harum .left img {
+        width: 150px;
+    }
+
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: auto;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+
+    .et-harum .left{
+        width: 50%;
+        float: left;
+    }
+    
+    
+    .et-harum p {
+        width: 50%;
+        float: left;
+    }
+
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+        }
+
+    .quidem {
+        position: relative;
+        top: 100px;
+        left: 50px;
+       
+    }
+
+    .dolor {
+        width: 88%;
+        height: 300px;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 607px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+
+    .accusamus {
+        width: 90%;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+
+    .accusamus .left{
+        width: 90%;
+    }
+   
+    .accusamus p {
+        width: 90%;
+    }
+    .accusamus p{
+        position: relative;
+        left: 27px;
+    }
+    .et-harum p{
+        position:  relative;
+        left: 27px;
+    }
+
+    .accusamus .left img{
+        width: 140px;
+    }
+    
+    .et-harum .left img {
+        width: 140px;
+    }
+    .et-harum .left img{
+        margin-top: 10px;
+    }
+
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: 90%;
+        height: 175px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+
+    .et-harum .left{
+        width: 90%;
+    }
+    
+    .et-harum p {
+        width: 90%;
+    }
+
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    #pera{
+        font-size: 14px;
+        margin-top: 40px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        cursor: pointer;
+        background: black;
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        }
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+        }
+
+    .quidem {
+        position: relative;
+        top: 100px;
+        left: 50px;
+           }
+
+    .dolor {
+        width: 88%;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 514px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+       }
+
+    .accusamus {
+        width: 90%;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+
+    .accusamus .left {
+        width: 90%;
+    }
+   
+    .accusamus p {
+        width: 90%;
+    }
+
+    .accusamus p{
+        position: relative;
+        left: 27px;
+    }
+  .et-harum p{
+        position: relative;
+        left: 27px;
+    }
+
+    .accusamus .left img{
+        width: 140px;
+    }
+    
+    .et-harum .left img {
+        width: 140px;
+    }
+    .et-harum .left img{
+        margin-top: 10px;
+    }
+
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: 90%;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+
+    .et-harum .left{
+        width: 90%;
+    }
+    
+    .et-harum p {
+        width: 90%;
+    }
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+        
+       
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+        
+       
+
+    .quidem {
+        width: 70%;
+        position: relative;
+        top: 100px;
+        left: 50px;
+       
+    }
+
+    .dolor {
+        width: 88%;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 579px){
+    .et-harum {
+        width: 90%;
+        height: 200px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 525px){
+    .et-harum {
+        width: 90%;
+        height: 230px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 514px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+       
+
+    .accusamus {
+        width: 90%;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 13px;
+    }
+
+    .accusamus .left{
+        width: 90%;
+    }
+  
+    .accusamus p {
+        width: 90%;
+    }
+
+    .accusamus p{
+        position: relative;
+        left: 27px;
+    }
+    
+     .et-harum p{
+        position: relative;
+        left: 27px;
+    }
+
+    .accusamus .left img {
+        width: 130px;
+    }
+    
+    .et-harum .left img {
+        width: 130px;
+    }
+
+    .et-harum .left img{
+        margin-top: 10px;
+    }
+
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: 90%;
+        height: 215px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 13px;
+    }
+
+    #pera{
+        font-size: 13px;
+    }
+
+    .et-harum .left {
+        width: 90%;
+    }
+
+    
+    .et-harum p {
+        width: 90%;
+    }
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+       
+       
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+        
+        
+
+    .quidem {
+        width: 70%;
+        position: relative;
+        top: 100px;
+        left: 50px;
+        font-size: 13px;
+    }
+        
+
+    .dolor {
+        width: 88%;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 432px){
+    .et-harum {
+        width: 90%;
+        height: 230px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 13px;
+    }
+
+    #pera{
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+       
+
+    .accusamus {
+        width: 75%;
+        height: auto;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 12px;
+    }
+
+    .accusamus .left{
+        width: 75%;
+    }
+    
+    .accusamus p {
+        width: 75%;
+    }
+    .accusamus p{
+        position: relative;
+        left: 27px;
+    }
+     .et-harum p{
+        position: relative;
+        left: 27px;
+    }
+    .accusamus .left img
+     {
+        width: 130px;
+    }
+
+    .et-harum .left img{
+        margin-top: 10px;
+        width: 130px;
+    }
+
+    .accusamus p {
+        margin-left: -30px;
+    }
+
+    .et-harum {
+        width: 75%;
+        height: 450px;
+        margin-top: 10px;
+        margin-left: 50px;
+        font-size: 12px;
+    }
+
+    .et-harum .left{
+        width: 75%;
+    }
+    
+    .et-harum p {
+        width: 75%;
+    }
+
+
+    .et-harum p {
+        margin-left: -30px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+       
+       
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+   
+    .quidem {
+        width: 70%;
+        position: relative;
+        top: 100px;
+        left: 50px;
+        font-size: 12px;
+       
+    }
+
+    .dolor {
+        width: 88%;
+        position: relative;
+        top: 120px;
+        left: 64px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    .about-safety {
+        margin-top: 20px;
+        margin-left: 40px;
+        font-weight: 400;
+        font-style: italic;
+    }
+       
+
+    .accusamus {
+        width: 75%;
+        height: auto;
+        margin-top: 20px;
+        margin-left: 40px;
+        font-size: 12px;
+    }
+
+    .accusamus .left{
+        width: 75%;
+    }
+
+    .accusamus p {
+        width: 75%;
+    }
+    .accusamus p{
+        position: relative;
+        left: 27px;
+    }
+    .et-harum p{
+        position: relative;
+        left: 27px;
+    }
+
+    .accusamus .left img{
+        margin-left: -10px;
+        width: 130px;
+    }
+    
+    .et-harum .left img {
+        margin-left: -10px;
+        width: 130px;
+    }
+
+    .et-harum .left img{
+        margin-top: 10px;
+    }
+
+    .accusamus p {
+        margin-left: -40px;
+    }
+
+    .et-harum {
+        width: 75%;
+        height: 450px;
+        margin-top: 10px;
+        margin-left: 40px;
+        font-size: 12px;
+    }
+
+    .et-harum .left{
+        width: 75%;
+    }
+
+   
+    .et-harum p {
+        width: 75%;
+    }
+
+    .et-harum p {
+        margin-left: -40px;
+    }
+
+    .safety-program {
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 110px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 12px;
+        line-height: 30px;
+        padding-left: 0px;
+        cursor: pointer;
+    }
+
+    .safety-program {
+        color: white;
+        font-size: 16px;
+        line-height: 30px;
+        padding-left: 15px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+          
+
+    .harum{
+        position: relative;
+        top: 85px;
+        margin-left: 30px;
+        font-weight: 400;
+        font-style: italic;
+    }
+  
+    .quidem {
+        width: 70%;
+        position: relative;
+        top: 100px;
+        left: 30px;
+        font-size: 12px;
+       
+    }
+
+    .dolor {
+        width: 88%;
+        position: relative;
+        top: 120px;
+        left: 44px;
+        font-size: 12px;
+    }
+}
+
+/* charters media */
+
+@media screen and (max-width: 866px){
+    .broker{
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+    
+    .nihil{
+        width: 80%;
+        height: 130px;
+        margin-top: 20px;
+        margin-left: 40px;
+        font-size: 14px;
+        
+    }
+    .nihil .left{
+        width: 50%;
+        float: left;
+    }
+    
+     .nihil .child2{
+        width: 50%;
+        float: left;
+    }
+
+    .nihil .left img{
+        width: 130px;
+    }
+    
+    .nihil .list03{
+        margin-top: 25px;
+        margin-left: -60px;
+        font-size: 14px;
+    }
+    
+    .nihil .child2 p{
+        margin-left: -74px;
+        font-size: 14px;
+    }
+    
+    .officiis{
+        width: 80%;
+        margin-top: 10px;
+        margin-left: 40px;
+        font-size: 14px;
+    }
+
+    .read-more{
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 95px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 12px;
+        cursor: pointer;
+    }
+       
+    
+    .air-charter{
+        margin-top: 90px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+    }
+       
+    
+    .expedita{
+        width: 80%;
+        height: 100px;
+        margin-top: 25px;
+        margin-left: 40px;
+        font-size: 14px;
+    }
+    
+    .expedita .left{
+        width: 50%;
+        float: left;
+    }
+     .expedita p{
+        width: 50%;
+        float: left;
+    }
+    .expedita .left img{
+        width: 130px;
+    }
+    
+    .expedita p{
+        margin-left: -74px;
+    }
+    
+    .at{
+        width: 80%;
+        margin-top: 5px;
+        margin-left: 40px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 758px){
+    .broker{
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+        margin-left: 30px;
+    }
+    
+    .nihil{
+        width: 90%;
+        height: 170px;
+        margin-top: 20px;
+        margin-left: 0px;
+        font-size: 14px;
+        
+    }
+    
+    .nihil .left{
+        width: 90%;
+        position: relative;
+        left: 110px;
+    }
+    .nihil .child2{
+        width: 90%;
+        position: relative;
+        left: 110px;
+    }
+
+    .nihil .left img{
+        margin-left: -80px;
+    }
+
+    .nihil .left img{
+        width: 130px;
+    }
+    
+    .nihil .list1{
+        margin-top: 10px;
+        margin-left: -70px;
+        font-size: 13px;
+    }
+    
+    .nihil .child2 p{
+        margin-left: -84px;
+        font-size: 14px;
+    }
+    
+    .officiis{
+        width: 80%;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+
+   
+    
+    .read-more{
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 95px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 12px;
+        cursor: pointer;
+       
+ 
+    }
+    
+    .air-charter{
+        margin-top: 90px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+        margin-left: 30px;
+    }
+       
+    
+    .expedita{
+        width: 90%;
+        height: 120px;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .expedita .left{
+        width: 90%;
+    }
+    .expedita p{
+        width: 90%;
+    }
+    .expedita .left img{
+        width: 130px;
+    }
+    
+    .expedita p{
+        position: relative;
+        left: 80px;
+        margin-left: -84px;
+    }
+    
+    .at{
+        width: 80%;
+        margin-top: 5px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 673px){
+    .broker{
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+        margin-left: 30px;
+    }
+    
+    .nihil{
+        width: 80%;
+        height: 170px;
+        margin-top: 20px;
+        margin-left: 0px;
+        font-size: 14px;
+        
+    }
+    
+    .nihil .left{
+        width: 80%;
+        position: relative;
+        left: 110px;
+    }
+     .nihil .child2{
+        width: 80%;
+        position: relative;
+        left: 110px;
+    }
+
+    .nihil .left img{
+        margin-left: -80px;
+    }
+
+    .nihil .left img{
+        width: 130px;
+    }
+    
+    .nihil .list03{
+        margin-top: 10px;
+        margin-left: -70px;
+        font-size: 13px;
+    }
+    
+    .nihil .child2 p{
+        margin-left: -84px;
+        font-size: 14px;
+    }
+    
+    .officiis{
+        width: 70%;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .read-more{
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 95px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 12px;
+        cursor: pointer;
+        
+    }
+    
+    .air-charter{
+        margin-top: 90px;
+        margin-left: 50px;
+        font-weight: 400;
+        font-style: italic;
+        margin-left: 30px;
+    }
+    
+    .expedita{
+        width: 80%;
+        height: 130px;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .expedita .left{
+        width: 80%;
+    }
+     .expedita p{
+        width: 80%;
+    }
+
+    .expedita .left img{
+        width: 130px;
+    }
+    
+    .expedita p{
+        position: relative;
+        left: 80px;
+        margin-left: -84px;
+    }
+    
+    .at{
+        width: 70%;
+        margin-top: 5px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 544px){
+    .broker{
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 700;
+        font-style: italic;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+    
+    .nihil{
+        width: 80%;
+        height: 170px;
+        margin-top: 20px;
+        margin-left: 0px;
+        font-size: 14px;
+        
+    }
+    
+    .nihil .left{
+        width: 80%;
+        position: relative;
+        left: 110px;
+    }
+     .nihil .child2{
+        width: 80%;
+        position: relative;
+        left: 110px;
+    }
+    .nihil .left img{
+        margin-left: -80px;
+    }
+
+    .nihil .left img{
+        width: 130px;
+    }
+    
+    .nihil .list03{
+        margin-top: 10px;
+        margin-left: -70px;
+        font-size: 13px;
+    }
+    
+    .nihil .child2 p{
+        margin-left: -84px;
+        font-size: 14px;
+    }
+    
+    .officiis{
+        width: 70%;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .read-more{
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 95px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 12px;
+        cursor: pointer;
+        
+    }
+    
+    .air-charter{
+        margin-top: 90px;
+        margin-left: 50px;
+        font-weight: 700;
+        font-style: italic;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+    
+    .expedita{
+        width: 80%;
+        height: 145px;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .expedita .left{
+        width: 80%;
+    }
+     .expedita p{
+        width: 80%;
+    }
+
+    .expedita .left img{
+        width: 130px;
+    }
+    
+    .expedita p{
+        position: relative;
+        left: 80px;
+        margin-left: -84px;
+    }
+    
+    .at{
+        width: 70%;
+        margin-top: 5px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 476px){
+    .broker{
+        width: 50%;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 700;
+        font-style: italic;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+
+    .hihil{
+        width: 80%;
+        height: 190px;
+        margin-top: 20px;
+        margin-left: 0px;
+        font-size: 14px;
+        
+    }
+    
+    .nihil .left{
+        width: 80%;
+        position: relative;
+        left: 110px;
+    } 
+     
+    .nihil .child2{
+        width: 80%;
+        position: relative;
+        left: 110px;
+    }
+
+    .nihil .left img{
+        margin-left: -80px;
+    }
+
+    .nihil .left img{
+        width: 130px;
+    }
+    
+    .nihil .list03{
+        margin-top: 10px;
+        margin-left: -70px;
+        font-size: 11px;
+    }
+    
+    .nihil .child2 p{
+        margin-left: -84px;
+        font-size: 14px;
+    }
+    
+    .officiis{
+        width: 80%;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .read-more{
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 95px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 12px;
+        cursor: pointer;
+       
+    }
+    
+    .air-charter{
+        margin-top: 90px;
+        margin-left: 50px;
+        font-weight: 700;
+        font-style: italic;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+    
+    .expedita{
+        width: 80%;
+        height: 160px;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    
+    .expedita .left{
+        width: 80%;
+    } 
+     .expedita p{
+        width: 80%;
+    }
+
+    .expedita .left img{
+        width: 130px;
+    }
+    
+    .expedita p{
+        position: relative;
+        left: 80px;
+        margin-left: -84px;
+    }
+    
+    .at{
+        width: 55%;
+        margin-top: 5px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 386px){
+    .broker{
+        width: 50%;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-weight: 700;
+        font-style: italic;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+
+    .nihil{
+        width: 75%;
+        height: 190px;
+        margin-top: 20px;
+        margin-left: 0px;
+        font-size: 12px;
+        
+    }
+    
+    .nihil .left{
+        width: 75%;
+        position: relative;
+        left: 110px;
+    }
+     .nihil .child2{
+        width: 75%;
+        position: relative;
+        left: 110px;
+    }
+
+    .nihil .left img{
+        margin-left: -80px;
+    }
+
+    .nihil .left img{
+        width: 130px;
+    }
+    
+    .nihil .list03{
+        margin-top: 10px;
+        margin-left: -70px;
+        font-size: 10px;
+    }
+    
+    .nihil .child2 p{
+        margin-left: -84px;
+        font-size: 12px;
+    }
+    
+    .officiis{
+        width: 80%;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 12px;
+    }
+    
+    .read-more{
+        position: relative;
+        top: 25px;
+        left: -20px;
+        width: 95px;
+        height: 30px;
+        border-radius: 3px;
+        float: right;
+        background: black;
+        color: white;
+        font-size: 14px;
+        line-height: 27px;
+        padding-left: 12px;
+        cursor: pointer;
+       
+    }
+    
+    .air-charter{
+        margin-top: 90px;
+        margin-left: 50px;
+        font-weight: 700;
+        font-style: italic;
+        margin-left: 30px;
+        font-size: 16px;
+    }
+    
+    .expedita{
+        width: 80%;
+        height: 160px;
+        margin-top: 25px;
+        margin-left: 30px;
+        font-size: 12px;
+    }
+    
+    .expedita .left{
+        width: 80%;
+    }
+     .expedita p{
+        width: 80%;
+    }
+
+    .expedita .left img{
+        width: 130px;
+    }
+    
+    .expedita p{
+        position: relative;
+        left: 80px;
+        margin-left: -84px;
+    }
+    
+    .at{
+        width: 60%;
+        margin-top: 5px;
+        margin-left: 25px;
+        font-size: 12px;
+    }
+}
+
+
+
+@media screen and (max-width: 767px){
+    .con-detail .ur-massage .typing{
+        width: 70%;
+    }
+
+
+    .con-detail input{
+        width: 70%;
+    }
+
+  
+}
+
+@media screen and (max-width: 666px){
+    .con-detail .ur-massage .typing{
+        width: 60%;
+    }
+
+    
+
+    .con-detail input{
+        width: 60%;
+    }
+}
+
+
+
+@media screen and (max-width: 498px){
+  
+
+    .con-detail input{
+        width: 80%;
+        margin-left: 2px;
+    }
+
+    .con-detail .ur-massage .typing{
+        width: 80%;
+    }
+
+    .con-detail .reset{
+        width: 60px;
+        height: 30px;
+        position: relative;
+        top: 3px;
+        left: -80px;
+        border-radius: 3px;
+        background: black;
+        color: white;
+        cursor: pointer;
+        line-height: 30px;
+       
+    }
+    
+    .con-detail .submit{
+        width: 70px;
+        height: 30px;
+        position: relative;
+        top: 3px;
+        left: -70px;
+         border-radius: 3px;
+        background: black;
+        color: white;
+        cursor: pointer;
+        line-height: 30px;
+    }
+}
+       

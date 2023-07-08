@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Airlines</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/media.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://malsup.github.io/jquery.cycle.all.js"></script>
+    <script src="jquery/jquery.js"></script>
+    <script src="javascript/javascript.js"></script>
+
+
+</head>
+
+<body>   <header>
+    <img src="logo/logo (1).png" alt="">
+    <div class="menus">
+        <ul class="menu01">
+            <li><a href="#"><i class="fa-solid fa-house"></i></a></li>
+            <li><a href="#"><i class="fa-solid fa-envelope"></i></a></li>
+            <li><a href="#"><i class="fa-solid fa-shop"></i></a></li>
+        </ul>
+     <ul class="menu02">
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="aircraft.html">OUR AIRCRAFT</a></li>
+          <li><a href="safety.html">SAFETY</a></li>
+          <li><a href="charters.html">CHARTERS</a></li>
+          <li><a href="contact.html">CONTACTS</a></li>
+        </ul>
+    </div>
+    <span><i id ="fa" class="fa-solid fa-bars"></i>
+        <ul id="dropdown">     
+            <a href="index.html"> <li>HOME</li></a>
+            <a href="aircraft.html"> <li>OUR AIRCRAFT</li></a>
+            <a href="safety.html"><li>SAFETY</li></a>
+            <a href="charters.html"><li>CHARTERS</li></a>
+            <a href="contact.html"><li>CONTACT</li></a>
+        </ul>
+        
+   </span>
+</header>
+
+<section class="image">
+
+<div id="photo">
+
+ <a href="#"><img src="images/image1.jpg" alt=""></a>
+ <a href="#"><img src="images/image2.jpg" alt=""></a>
+ <a href="#"><img src="images/image3.jpg" alt=""></a>
+ <a href="#"><img src="images/image4.jpg" alt=""></a>
+
+</div>
+
+</section>
+
+<section class="img-heading">
+
+<h1 class="img-heading01">COMFORT</h1>
+<h1 class="img-heading02">Guaranteed</h1>
+
+<p class="img-pera">Lorem, ipsum dolor sit amet consectetur adipisicing<br>
+ elit. Nam maiores voluptates cumque iste<br>
+ harum fugit quisquam voluptatum</p>
+
+</section>
+
+
+<section class="left-content">
+<div class="leftside">
+ <h3 class="h3">Your Flight Planner</h3>
+ <form action="">
+     <div class="radio-button">
+         <span class="radio radio1"><input type="radio" value="Round Trip" name="airline"> Round Trip</span>
+         <span class="radio radio2"><input type="radio" value="Empty-Leg" name="airline"> Empty-Leg</span>
+     </div>
+     <div class="radio-button">
+         <span class="radio radio3"><input type="radio" value="One Way" name="airline"> One Way</span>
+         <span class="radio radio4"><input type="radio" value="Multi-leg" name="airline"> Multi-leg</span>
+     </div>
+     <div class="city">
+         <label for="">Leving From:</label><br>
+         <input type="text" placeholder="Enter City or Airport Code" size="25px">
+     </div>
+     <div class="city1">
+         <label for="">Going To:</label><br>
+         <input type="text" placeholder="Enter City or Airport Code" size="25px">
+     </div>
+     <div class="datetime">
+         <label for="">Departure Date and Time:</label>
+         <input type="date">
+         <input type="time">
+     </div>
+     <div class="datetime1">
+         <label for="">Return Date and Time:</label>
+         <input type="date">
+         <input type="time">
+     </div>
+     <span class="passengers">
+         <label for="">Passengers:</label><br>
+         <input type="text" placeholder="#passengers">
+     </span>
+     <span class="submit">
+         <input type="submit" value="GO!">
+     </span>
+ </form>
+ <div class="news">
+     <h3>Recent News</h3>
+     <div>
+         <p>Lorem ipsum dolor sit.</p>
+         <span>January 1, 2023</span>
+     </div>
+     <hr>
+     <div>
+         <p>Lorem ipsum dolor sit.</p>
+         <span>February 5, 2023</span>
+     </div>
+     <hr>
+     <div>
+         <p>Lorem ipsum dolor sit.</p>
+         <span>March 22, 2023</span>
+     </div>
+ </div>
+</div>
+<div class="right-content">
+            <h2 class="con-form">Contact Form</h2>
+            <form action="#" method="post" class="con-detail" id="form">
+                <div class="ur-name">
+                    <label for="">Your Name:</label>
+                    <input type="text" name="user-name" id="username" required>
+                </div>
+                <div class="mail-id">
+                    <label for="">Your E-mail:</label>
+                    <input type="email" name="email" required>
+                </div>
+                <div class="ur-massage">
+                    <label for="">Your Message:</label>
+                    <textarea name="" id="" cols="45" rows="10" class="typing"></textarea>
+                </div>
+                <div class="reset-submit">
+                    <input type="reset" class="reset" value="RESET">
+                    <input type="submit" class="submit" value="SUBMIT">
+                </div>
+            </form>
+        </div>
+    </section>
+
+
+    <footer>
+        <span>Copyright&copy;2023 Domain Name - All Right Reservrd</span>
+        <span>Free CSS Templates by TemplateMonster</span>
+    </footer>
+
+
+</body>
+
+</html>
