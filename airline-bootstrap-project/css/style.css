@@ -1,0 +1,41 @@
+.carousel{
+    padding: 0 50px;
+}
+
+.content{
+    padding: 0 112px;
+}
+
+.gray{
+    background: rgb(228, 226, 226);
+    
+}
+
+.radio2{
+    margin-left: -3.5px;
+}
+
+/* .rightside{
+    height: 970px;
+} */
+
+.width{
+    width: 95%;
+}
+
+.menu1 li a i:hover{
+    color: gray;
+} 
+
+/* .menu2 li a:hover{
+    border-bottom: 3px solid blueviolet;
+} */
+.mennu li a
+{
+    position: absolute;
+
+}
+.menu2 li a:hover
+{
+    background: gray;
+}
